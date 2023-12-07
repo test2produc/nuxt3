@@ -1,0 +1,21 @@
+[
+  {
+    "name": "yazitest1",
+    "description": "test",
+    "fieldId": "yazitest1",
+    "modelId": "test1111",
+    "componentId": "single-line-text",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "asdasd"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
+  }
+]
